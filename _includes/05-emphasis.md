@@ -1,0 +1,5 @@
+- Strong in **mathematics** and **sciences**
+- Bilingual
+  - **French** and **English**
+- Proficient in **C++**
+- Mediocre at *__cursive writing__*
