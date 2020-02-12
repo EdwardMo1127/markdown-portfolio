@@ -1,4 +1,3 @@
-## Favourite Animated Movies of All Time
 1. Shrek
 2. Spider-Man: Into the Spider-Verse
 3. Spirited Away
