@@ -2,4 +2,4 @@
 - Bilingual
   - **French** and **English**
 - Proficient in **C++**
-- Mediocre at *cursive writing*
+- Mediocre at *__cursive writing__*
