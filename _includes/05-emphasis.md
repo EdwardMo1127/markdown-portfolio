@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Strong in **mathematics** and **sciences**
+- Bilingual
+  - **French** and **English**
+- Proficient in **C++**
+- Mediocre at *cursive writing*
