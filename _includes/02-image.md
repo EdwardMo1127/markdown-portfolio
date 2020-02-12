@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![garlic bread](https://vaya.in/recipes/wp-content/uploads/2018/05/Great-Garlic-Bread.jpg)
